@@ -11,7 +11,7 @@ This project provides a comprehensive analysis of Spotify music trends over a 16
 ## Dashboard Previews
 ### Main Indicators
 ![Main Indicators](PGR_1.png)
-![Time Trends](PGR_2.png)
+
 
 ### Time Trends & Details
 ![Time Trends](PGR_2.png)
