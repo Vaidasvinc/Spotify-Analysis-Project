@@ -17,10 +17,9 @@ This project provides a comprehensive analysis of Spotify music trends over a 16
 ![Time Trends](PGR_2.png)
 
 ## Technical Toolkit
-* **Power BI:** Data visualization and dashboard design.
-* **SQL:** Data extraction and management.
-* **Power Query (M):** Data transformation (ETL).
-* **DAX:** Custom measures for growth and popularity scores.
+* **Power BI:** Data visualization, dashboard design, and interactive reporting.
+* **Power Query (M):** Data transformation, cleaning, and ETL processes from CSV datasets.
+* **DAX:** Created custom measures to calculate growth, popularity scores, and time-based metrics.
 
 ## About the Author
 **Vaidas Vincevičius**
